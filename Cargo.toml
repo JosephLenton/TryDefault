@@ -1,0 +1,10 @@
+[package]
+name = "try_default"
+version = "1.0.0"
+authors = ["Joseph Lenton <josephlenton@gmail.com>"]
+edition = "2018"
+license = "MIT"
+description = "A trait to optionally get the Default if present, or None if there is no Default."
+keywords = ["try", "default"]
+
+[dependencies]
